@@ -5,7 +5,7 @@
 <%@ page import="java.sql.Connection" %>
 <%@ page import="java.sql.DriverManager" %>
 
-<body bgcolor="lavender">
+<body bgcolor="white">
 <div class="topnav" id="myTopnav">
   <a href="index.html">Home</a>
   <a href="CreateCustomer.html">New Customer</a>
