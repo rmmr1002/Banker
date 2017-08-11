@@ -1,7 +1,8 @@
 # Banker
 
-Requirement Page
-Purpose
+#Requirement Page
+
+Purpose:
 The purpose of this web application is to provide a system to manage and store the details of typical customers of a bank. It is intended 
 to be used by the administrators of the mentioned bank. 
 
